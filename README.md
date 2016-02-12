@@ -37,9 +37,9 @@ $('#pickify').Pickify({
 	"template" : null,
 	"html" : null,
 	"ajax" : {
-	        url: "server.php",
-	        dataType: "json",
-	        cache : false
+	        "url" : "server.php",
+	        dataType" : "json",
+	        "cache" : false
 	}
 }
 ```
