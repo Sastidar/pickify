@@ -7,7 +7,6 @@ Example:
 $('#pickify').Pickify({
 	ajax : {
 		url: "someServer.php"
-
 	},
 	dateFormat : 'DD/MM/YYYY',
 	timeFormat : 'HH:mm'
